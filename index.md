@@ -9,8 +9,8 @@ This is the official weedandbeers website where you can see our faction rooster,
 This is our faction rooster. (if you want to apply dm me on dicsord indesity#7821)
 
 ```markdown
+<img src="https://github.com/inbugger/weedandbeer/blob/gh-pages/190%20(1).png"
 
-190.png
 # Header 1
 ## Header 2
 ### Header 3
