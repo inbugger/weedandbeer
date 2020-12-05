@@ -1,37 +1,141 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>WeedandBeers.cc</title>
+        
+    </head>
+    <body>
+        <h1>
+            <img width="1000" src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/header1.png" border="10"> </a> 
+            <hr/>
+            <a href="weedandbeers.html">
+                <img width="100" src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/homeee.png"></a>
+           <a href="apply.html">
+               <img width="100" src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/apply.png"</a>
+           <a href="links.html">
+                <img width="100" src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/LINKSSS.png"></a>
+           
+            
+            <hr/>
 
-You can use the [editor on GitHub](https://github.com/inbugger/weedandbeer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+            <img width="200" src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/leaders.png">
+            
+            <br> 
+            
+            
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(1).png">
+            &nbsp;
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190.png">
+            &nbsp;  
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(2).png">
+        
+            <br>
+            &nbsp;  
+             STONER
+             &nbsp;
+             &nbsp;
+             &nbsp;
+             &nbsp;
+            
+             EX-STONER
+             &nbsp;
+            
+             
+            
+             GRINDERR
+             
+      <br>
+             <img width="250" src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/coleaders.png">
+            
+             <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+             <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(3).png">
+             &nbsp;
+            
+             <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(4).png">
+            &nbsp;
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(6).png">
+            &nbsp;
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(12).png">    
+        
+             <br>
 
-### Markdown
+damn he thick
+&nbsp;
+&nbsp;
+dude idkk
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+hit dat cane
 
-```markdown
-Syntax highlighted code block
+&nbsp;
+&nbsp;
+&nbsp;
+the og dude
 
-# Header 1
-## Header 2
-### Header 3
+               <br>
 
-- Bulleted
-- List
+             <img width="160" src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/mods%20(1).png">
+            <br>
 
-1. Numbered
-2. List
+          
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(5).png">
+          &nbsp;
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(7).png">
+          &nbsp;
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(8).png">
+          &nbsp;
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(9).png">
+          &nbsp;
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(10).png">
+          &nbsp;
+            <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(11).png">
+            <br>
+        
+            &nbsp;
+           
+           wall builder
+           &nbsp;
+           &nbsp;
+            srvr crasher
+            &nbsp;
+            &nbsp;
+            idk 1stacker?
+             &nbsp;
+             &nbsp;
+            the steve guy
+            &nbsp;
+            &nbsp;
+            Cannoner
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
 
-**Bold** and _Italic_ and `Code` text
+            wall builder2
 
-[Link](url) and ![Image](src)
-```
+        
+            <br>
+             <img width="200" src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/members.png">
+            <BR>
+                <img src="file:///C:/Users/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/Downloads/190%20(13).png">
+               <br>
+               &nbsp;
+               cane slave?
+                
+        
+        
+         
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    </body>
+</html>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inbugger/weedandbeer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
