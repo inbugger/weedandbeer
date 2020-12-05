@@ -2,7 +2,7 @@
 
 
 This is the official weedandbeers website where you can see our faction rooster, apply, and download curtain folders that may be usefull while you play with us
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
