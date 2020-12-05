@@ -9,7 +9,7 @@ This is the official weedandbeers website where you can see our faction rooster,
 This is our faction rooster. (if you want to apply dm me on dicsord indesity#7821)
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
