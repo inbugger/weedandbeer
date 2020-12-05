@@ -4,7 +4,7 @@
 This is the official weedandbeers website where you can see our faction rooster, apply, and download curtain folders that may be usefull while you play with us
 
 
-### Markdown
+### Faction Rooster
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
