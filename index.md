@@ -6,7 +6,7 @@ This is the official weedandbeers website where you can see our faction rooster,
 
 ### Faction Rooster
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is our faction rooster. (if you want to apply dm me on dicsord indesity#7821)
 
 ```markdown
 Syntax highlighted code block
